@@ -1,4 +1,4 @@
-# Nmap – Gabriel'smind study guide (Repo)
+# Nmap – Gabriel'smind study guide
 
 A clean, GitHub‑ready companion to the **Nmap** quick guide. It includes:
 - Step‑by‑step docs (from install → advanced)
